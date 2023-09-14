@@ -7,3 +7,7 @@
   <li>Generate it
   <li>copy it to your clipboard
   </ul>
+
+<h1>Live demo:</h1>
+
+<h4>passwordmaker.surge.sh</h4>
